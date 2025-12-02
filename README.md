@@ -68,22 +68,5 @@ Kaliteli bir şarap üretmek için gereken kimyasal imza şudur:
 * Pandas & NumPy
 * Seaborn & Matplotlib
 
-## Kurulum (Diğer Kullanıcılar İçin)
-
-Bu projeyi kendi bilgisayarınızda çalıştırmak isterseniz aşağıdaki adımları izleyebilirsiniz:
-
-1. Repoyu klonlayın:
-   ```bash
-   git clone [https://github.com/betultgumus/wineQuality.git](https://github.com/betultgumus/wineQuality.git)
-   ```
-2.  Gerekli kütüphaneleri yükleyin:
-    ```bash
-    pip install pandas numpy matplotlib seaborn
-    ```
-3.  Notebook dosyasını çalıştırın:
-    ```bash
-    jupyter notebook WineQuality.ipynb
-    ```
-
 
 *Bu proje Veri Bilimi portfolyo çalışması olarak hazırlanmıştır.*
