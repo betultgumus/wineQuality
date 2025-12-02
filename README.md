@@ -61,6 +61,8 @@ Kaliteli bir şarap üretmek için gereken kimyasal imza şudur:
 * Yüksek Sitrik Asit ve Sülfat
 * Minimum Uçucu Asit (Volatile Acidity)
 
+![Grafik Açıklaması](dagılımlar.png)
+
 ---
 
 ## Kullanılan Teknolojiler
